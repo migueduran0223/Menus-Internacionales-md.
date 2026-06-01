@@ -9,3 +9,6 @@ Diversa y tradicional.
 
 ## Bebidas
 - Té
+
+## Consejos
+- Cocción rápida
