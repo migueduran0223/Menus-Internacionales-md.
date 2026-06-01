@@ -5,3 +5,7 @@ Cocina llena de sabor, especias y tradición.
 - Tacos
 - Enchiladas
 - Burritos
+
+## Bebidas
+- Margarita
+- Agua de horchata
