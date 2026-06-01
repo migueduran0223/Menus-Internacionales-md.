@@ -9,3 +9,6 @@ Cocina llena de sabor, especias y tradición.
 ## Bebidas
 - Margarita
 - Agua de horchata
+
+## Consejos
+- Usar picante con moderación
