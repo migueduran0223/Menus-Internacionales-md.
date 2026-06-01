@@ -7,3 +7,8 @@ La cocina italiana es famosa por sus sabores frescos y uso de ingredientes como 
 - Pizza Margarita
 - Pasta Carbonara
 - Risotto
+
+## Bebidas
+- Vino tinto
+- Agua con gas
+- Limoncello
