@@ -6,3 +6,6 @@ Rica en especias y sabores intensos.
 ## Platos
 - Curry
 - Biryani
+
+## Bebidas
+- Lassi
