@@ -7,4 +7,5 @@ Diversa y tradicional.
 - Arroz frito
 - Dumplings
 
-
+## Bebidas
+- Té
