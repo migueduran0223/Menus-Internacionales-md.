@@ -2,3 +2,9 @@
 
 ## Descripción
 Diversa y tradicional.
+
+## Platos
+- Arroz frito
+- Dumplings
+
+
