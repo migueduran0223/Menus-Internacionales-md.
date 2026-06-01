@@ -11,3 +11,6 @@ Cocina basada en arroz, pescado y precisión.
 ## Bebidas
 - Té verde
 - Sake
+
+## Consejos
+- Presentación es clave
