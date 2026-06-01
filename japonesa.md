@@ -7,3 +7,7 @@ Cocina basada en arroz, pescado y precisión.
 - Sushi
 - Ramen
 - Tempura
+
+## Bebidas
+- Té verde
+- Sake
