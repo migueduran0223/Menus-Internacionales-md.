@@ -2,3 +2,7 @@
 
 ## Descripción
 Elegante y técnica.
+
+## Platos
+- Crepes
+- Ratatouille
