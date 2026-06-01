@@ -9,3 +9,6 @@ Rica en especias y sabores intensos.
 
 ## Bebidas
 - Lassi
+
+## Consejos
+- Controlar especias
