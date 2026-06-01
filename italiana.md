@@ -12,3 +12,7 @@ La cocina italiana es famosa por sus sabores frescos y uso de ingredientes como 
 - Vino tinto
 - Agua con gas
 - Limoncello
+
+## Consejos
+- Usar ingredientes frescos
+- Acompañar con pan artesanal
